@@ -25,5 +25,5 @@ git add .; git commit -m '토끼의 꾀 독후감'; git push origin master
 <hr>
 
 ## 학습 시간표
-<img src="최소목표/시간표/시간표001.png">
+<img src="최소목표/시간표/시간표-1.png">
 
