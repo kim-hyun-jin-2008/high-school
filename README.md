@@ -18,7 +18,7 @@ git pull origin master
 # Pull  직후 바로 되돌리기
 git reset --hard HEAD~1
 
-# 간략하게 한번에 명령 보내기
+# 간략하게 명령 한번에 실행해 보내기(코멘트 부분은 변경해 주는것이 좋음)
 git add .; git commit -m '변경'; git push origin master
 
 # vscode에서 바로 올리는 방법
