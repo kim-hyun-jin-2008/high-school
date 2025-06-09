@@ -19,5 +19,5 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
 <hr>
 
 ## 학습 시간표
-<img src="최소목표/시간표/시간표-1.png">
+<img src="목표/시간표/시간표-1.png">
 
