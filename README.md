@@ -19,8 +19,6 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
 <hr>
 
 ## 학습 시간표
-<!-- <img src="목표/시간표/시간표-1.png"> -->
-
 <table>
   <tr>
     <th colspan="8" style="text-align: center; font-size: 20px; padding: 10px;">시 간 표</th>
