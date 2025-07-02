@@ -65,7 +65,12 @@
 
   ![alt text](image.png)
 
-* 코스피 PBR: http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201010107
+* 코스피 PBR
+  - http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201010107
+
+* M2 관련 다른것과 같이 볼 수 있는것
+  - https://charts.bgeometrics.com/m2_global.html
+  - 매크로 보는데 유용해 보인다:
 
 * 인버스
   - 주가가 하락하면 이익을 보는것
