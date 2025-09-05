@@ -41,50 +41,48 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>7:00</strong></td>
-    <td colspan="7" style="text-align: center;">아침 및 자유시간</td>
+    <td colspan="5" style="text-align: center;">
+    아침 및 자유시간 / 산보
+    <br>
+    7:30 당일계획 - 매주 월요일 주간, 월간, 분기, 년간 체크
+    </td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr>
-    <td style="background-color: #f0f8ff;"><strong>7:45</strong></td>
-    <td colspan="7" style="text-align: center;">조회 / 학습 준비</td>
-  </tr>
-  <tr>
-    <td style="background-color: #f0f8ff;"><strong>8시</strong></td>
-    <td>국어</td>
-    <td>생명</td>
-    <td>영어 N</td>
-    <td>수학</td>
-    <td>진로 탐색</td>
+    <tr>
+    <td style="background-color: #f0f8ff;"><strong>8:00</strong></td>
+    <td colspan="5" style="text-align: center;">
+    영어 숙어/단어 암기 - 1일, 3일, 7일전 복습 포함
+    </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td style="background-color: #f0f8ff;"><strong>9시</strong></td>
-    <td>윤리</td>
-    <td>수학</td>
-    <td>물리</td>
-    <td>영어</td>
-    <td>국어</td>
-    <td>국어</td>
-    <td>보충<br/>및<br/>시험</td>
+    <td style="background-color: #f0f8ff;"><strong>8:30</strong></td>
+    <td colspan="5" style="text-align: center;">
+    복습 1일, 3일, 7일전
+    </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td style="background-color: #f0f8ff;"><strong>10시</strong></td>
-    <td>화학</td>
-    <td>역사</td>
+    <td style="background-color: #f0f8ff;"><strong>10:00</strong></td>
     <td>국어</td>
-    <td>화학</td>
-    <td>지구</td>
-    <td>영어</td>
-    <td>시험</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td style="background-color: #f0f8ff;"><strong>11시</strong></td>
-    <td>수학</td>
+    <td style="background-color: #f0f8ff;"><strong>11:00</strong></td>
     <td>영어</td>
-    <td>일반사회</td>
-    <td>국어</td>
-    <td>역사</td>
-    <td>수학</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -92,50 +90,110 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
     <td colspan="7" style="text-align: center; background-color: #fff2e6;">점심 및 자유시간</td>
   </tr>
   <tr>
-    <td style="background-color: #f0f8ff;"><strong>13시</strong></td>
-    <td>영어</td>
+    <td style="background-color: #f0f8ff;"><strong>13:00</strong></td>
     <td>수학</td>
     <td>수학</td>
+    <td>수학</td>
+    <td>수학</td>
+    <td>수학</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>14:00</strong></td>
+    <td>과학 <br> (물리,화학) </td>
+    <td>과학 <br> (물리,화학) </td>
+    <td>과학 <br> (물리,화학) </td>
+    <td>과학 <br> (물리,화학) </td>
+    <td>과학 <br> (물리,화학) </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>15:00</strong></td>
     <td>지리</td>
-    <td>영어</td>
-    <td>문학텍</td>
-    <td>문해력</td>
-  </tr>
-  <tr>
-    <td style="background-color: #f0f8ff;"><strong>14시</strong></td>
-    <td>수학</td>
-    <td>국어</td>
-    <td></td>
+    <td>역사</td>
+    <td>지리</td>
     <td>사회D</td>
+    <td>지리</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>16:00</strong></td>
+    <td>지리</td>
+    <td>역사</td>
+    <td>지리</td>
+    <td>사회D</td>
+    <td>지리</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>16:50</strong></td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td></td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td></td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>17:50</strong></td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td style="background-color: #f0f1af;">수학 학원</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+  </tr>
+  <tr>
+    <td style="background-color: #fff2e6;"><strong>18:50 ~</strong></td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td></td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td></td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+    <td style="background-color: #fff2e6;">저녁</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>19:50</strong></td>
+    <td></td>
+    <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
+    <td></td>
+    <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td style="background-color: #ffe6f2;"><strong>15시</strong></td>
-    <td colspan="7" style="background-color: #ffe6f2;"></td>
-  </tr>
-  <tr>
-    <td style="background-color: #f0f0f0;"><strong>16시</strong></td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
-    <td style="background-color: #f0f0f0;">학습•발표</td>
+    <td style="background-color: #f0f8ff;"><strong>20:50</strong></td>
+    <td></td>
+    <td></td>
+    <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)<br>권투</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td style="background-color: #f0f8ff;"><strong>17시</strong></td>
-    <td>학회(수학)</td>
-    <td>수학</td>
-    <td>학회(수학)</td>
-    <td>과학</td>
-    <td>학회(수학)</td>
+    <td style="background-color: #f0f8ff;"><strong> / </strong></td>
+    <td>영어 암기</td>
+    <td> ~ 21:30  학습준비 <br>영어 암기</td>
+    <td>영어 암기</td>
+    <td> ~ 21:30  학습준비 <br> 영어 암기</td>
     <td></td>
-    <td>수컴</td>
+    <td></td>
   </tr>
   <tr>
+    <td style="background-color: #fff2e6;"><strong>22:00 ~</strong></td>
+    <td colspan="7" style="text-align: center; background-color: #fff2e6;">내일 준비 및 취침(22시 10분 이내)</td>
+  </tr>
+</table>
+
+
+  <!-- <tr>
     <td style="background-color: #fff2e6;"><strong>18:00 ~</strong></td>
     <td colspan="7" style="text-align: center; background-color: #fff2e6;">(학원 16:45 ~) 저녁 및 자유시간</td>
   </tr>
@@ -154,12 +212,12 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
   <tr>
     <td style="background-color: #fff2e6;"><strong>22:00 ~</strong></td>
     <td colspan="7" style="text-align: center; background-color: #fff2e6;">내일 준비 및 취침(22시 30분 이내)</td>
-  </tr>
-</table>
+  </tr> -->
 
 <p><strong>참고사항:</strong></p>
 <ul>
-  <li>▲ 시간 보다는 의하는 성과 위주로 진행</li>
-  <li>▲ 18시 이후는 부족한것 보충 하는 시간, 일나다. / 빈칸은 보충시간</li>
+  <li>▲ 쉬는 시간 5 ~ 10분</li>
+  <li>▲ 목표를 시간을 채우는 것이 아닌 내것으로 익히는 성과 위주로 진행</li>
+  <li>▲ 빈칸은 상황에 따라 보충 학습 및 시험</li>
 </ul>
 
