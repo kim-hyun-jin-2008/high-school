@@ -59,11 +59,18 @@ https://www.megastudy.net/Mypage/mp_2017/myinfo/my_std_room/detail.asp?app_no=99
 
 * 영어
 
+
+
 * 수학
+
+
 
 * 과학(물리, 화학, 지구과학, 생명과학)
 
+
+
 * 사회, 지리, 윤리
+
 
 
 * 역사(학국사)
