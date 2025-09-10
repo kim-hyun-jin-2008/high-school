@@ -101,42 +101,42 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>14:00</strong></td>
-    <td>과학 <br> (물리,화학) </td>
-    <td>과학 <br> (물리,화학) </td>
-    <td>과학 <br> (물리,화학) </td>
-    <td>과학 <br> (물리,화학) </td>
-    <td>과학 <br> (물리,화학) </td>
+    <td>지구과학</td>
+    <td>통합과학</td>
+    <td>통합과학</td>
+    <td>통합과학</td>
+    <td>국어</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>15:00</strong></td>
-    <td>지리</td>
-    <td>역사</td>
-    <td>지리</td>
-    <td>사회D</td>
-    <td>지리</td>
+    <td>통합사회</td>
+    <td>통합사회</td>
+    <td>통합사회</td>
+    <td>통합사회</td>
+    <td>영어</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>16:00</strong></td>
-    <td>지리</td>
     <td>역사</td>
-    <td>지리</td>
-    <td>사회D</td>
-    <td>지리</td>
+    <td>역사</td>
+    <td>역사</td>
+    <td>영어</td>
+    <td>수학</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>16:50</strong></td>
     <td style="background-color: #f0f1af;">수학 학원</td>
-    <td></td>
+    <td>국어</td>
     <td style="background-color: #f0f1af;">수학 학원</td>
-    <td></td>
+    <td>영어</td>
     <td style="background-color: #f0f1af;">수학 학원</td>
-    <td></td>
+    <td>수학</td>
     <td></td>
   </tr>
   <tr>
@@ -152,27 +152,27 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
   <tr>
     <td style="background-color: #fff2e6;"><strong>18:50 ~</strong></td>
     <td style="background-color: #fff2e6;">저녁</td>
-    <td></td>
+    <td>수학보충(숙제)</td>
     <td style="background-color: #fff2e6;">저녁</td>
-    <td></td>
+    <td>수학보충(숙제)</td>
     <td style="background-color: #fff2e6;">저녁</td>
     <td style="background-color: #fff2e6;">저녁</td>
     <td style="background-color: #fff2e6;">저녁</td>
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>19:50</strong></td>
-    <td></td>
+    <td style="background-color: #f0f1af;">수학숙제</td>
     <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
-    <td></td>
+    <td style="background-color: #f0f1af;">수학숙제</td>
     <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
-    <td></td>
+    <td style="background-color: #f0f1af;">수학숙제</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td style="background-color: #f0f8ff;"><strong>20:50</strong></td>
-    <td></td>
-    <td></td>
+    <td>수학(보충)</td>
+    <td>수학(보충)</td>
     <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)<br>권투</td>
     <td></td>
     <td></td>
@@ -214,10 +214,11 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
     <td colspan="7" style="text-align: center; background-color: #fff2e6;">내일 준비 및 취침(22시 30분 이내)</td>
   </tr> -->
 
-<p><strong>참고사항:</strong></p>
+<p><strong>◆ 참고사항</strong></p>
 <ul>
-  <li>▲ 쉬는 시간 5 ~ 10분</li>
-  <li>▲ 목표를 시간을 채우는 것이 아닌 내것으로 익히는 성과 위주로 진행</li>
-  <li>▲ 빈칸은 상황에 따라 보충 학습 및 시험</li>
+  <li>토, 일 부족한것 보충시간 - 매일 학습소통하면서 토,일할것 정하면 됩니다.</li>
+  <li>쉬는 시간 5 ~ 10분</li>
+  <li>목표를 시간을 채우는 것이 아닌 내것으로 익히는 <strong>성과 위주로 진행</strong></li>
+  <li>빈칸은 상황에 따라 보충 학습 및 시험</li>
 </ul>
 
