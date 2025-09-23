@@ -39,33 +39,44 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
     <th>토</th>
     <th>일</th>
   </tr>
-  <tr>
-    <td style="background-color: #f0f8ff;"><strong>7:00</strong></td>
+    <tr>
+    <td style="background-color: #f0f8ff;"><strong>6:40</strong></td>
     <td colspan="5" style="text-align: center;">
-    아침 및 자유시간 / 산보
+    학교 다닐때와 동일한 시간에 일어나야 한다.
     <br>
-    7:30 당일계획 - 매주 월요일 주간, 월간, 분기, 년간 체크
+    샤워 및 산보 7시까지
     </td>
     <td></td>
     <td></td>
   </tr>
-    <tr>
-    <td style="background-color: #f0f8ff;"><strong>1교시</strong></td>
-    <td>국어</td>
-    <td>국어</td>
-    <td>국어</td>
-    <td>국어</td>
-    <td>국어</td>
+  <tr>
+    <td style="background-color: #f0f8ff;"><strong>7:00</strong></td>
+    <td colspan="5" style="text-align: center;">
+    아침 및 당일 계획
+    <br>
+    7:30 당일계획 - 매주 월요일 주간, 월간, 분기, 년간 체크<br>
+    <strong>매일매일 와서 어떻게 할지 옆에서 말할것</strong>
+    </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
+    <td style="background-color: #f0f8ff;"><strong>1교시</strong></td>
+    <td>영어</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td>영어</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
     <td style="background-color: #f0f8ff;"><strong>2교시</strong></td>
-    <td>영어</td>
-    <td>영어</td>
-    <td>영어</td>
-    <td>영어</td>
-    <td>영어</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td>국어</td>
+    <td>국어</td>
     <td></td>
     <td></td>
   </tr>
@@ -149,7 +160,7 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
     <td style="background-color: #f0f1af;">수학숙제</td>
     <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
     <td style="background-color: #f0f1af;">수학숙제</td>
-    <td style="background-color: #d0ddff;" rowspan="2">체육(우슈)</td>
+    <td style="background-color: #d0ddff;" rowspan="2">국어 어휘력 암기</td>
     <td style="background-color: #f0f1af;">수학숙제</td>
     <td></td>
     <td></td>
@@ -199,12 +210,25 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
     <td colspan="7" style="text-align: center; background-color: #fff2e6;">내일 준비 및 취침(22시 30분 이내)</td>
   </tr> -->
 
-<p><strong>◆ 참고사항</strong></p>
-<ul>
-  <li>수업시작전 복습을 반드시 진행 후 수업시작</li>
-  <li>토, 일 부족한것 보충시간 - 매일 학습소통하면서 토,일할것 정하면 됩니다.</li>
-  <li>쉬는 시간 5 ~ 10분</li>
-  <li>목표를 시간을 채우는 것이 아닌 내것으로 익히는 <strong>성과 위주로 진행</strong></li>
-  <li>빈칸은 상황에 따라 보충 학습 및 시험</li>
-</ul>
 
+#### ◆ 참고사항
+
+* 수업시작전 복습을 반드시 진행 후 수업시작
+* 토, 일 부족한것 보충시간 - 매일 학습소통하면서 토,일할것 정하면 됩니다.
+* 쉬는 시간 5 ~ 10분
+* 목표를 시간을 채우는 것이 아닌 내것으로 익히는 **성과 위주로 진행**
+* 빈칸은 상황에 따라 보충 학습 및 시험
+
+<br>
+
+#### ◆ 변경사항
+* 2025.09.24 학교 다닐때와 동일한 시간
+  - 아침에 1교시는 영어를 하고 단어, 숙어 문장 외울것 7시 40분에 미리 말해 줘야 한다.
+  - 영어 하루중 어느시간에 추가로 외울지 정리한 단어 옆에 적도록 한다.
+  - 현재 저녁에 영어암기 하는 시간 지켜지고 있지 않기 때문에 앞으로는 확인하고 자도록 한다.
+  - 자기전 느릿느릿 느릿 느릿 느릿 느릿 답답하게 움직이지지 말고 빨리빨리 움직여 빠르게 잘 수 있도록 한다.
+  - 본인 일은 본인 스스로 할 수 있도록 생각하고 계획하고 실천하고 잘못 된것은 없는지 또 생각하고 습관화 해야 한다.
+
+* 2025.09.24 아침 7:20 ~ 30분
+  - 반드시 소리내서 읽어야 한다.
+  - 책을 읽고 내 옆에서 읽은 내용에서 기억 나는것을 적는 훈련을 가진다.
