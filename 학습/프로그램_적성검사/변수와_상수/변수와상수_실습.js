@@ -9,10 +9,24 @@
 console.log("\n");
 
 let userName = "홍길동";
-console.log("처음 변수 선언한 이름:" , userName);
-console.log("");  // 한줄 떨어 트리기
-// +로 하니까 한칸 떨어진게 없네
-console.log("처음 변수 선언한 이름:" + userName);
+console.log("문자열 상수 -> 초기 이름:", userName, userName);
 
-console.log(true && true);
+// 구구단 2단출력
+// 변수는 문자를 사용해서 <-- 다른값을 넣는거야
+let gugudan = 1;
+console.log("--- 구구단 " + gugudan, '단 출력 ---' )
+console.log('gugudan' , ' * 1 = ', gugudan * 1 );
+console.log(gugudan , ' * 2 = ', gugudan * 2 );
+console.log(gugudan , ' * 3 = ', gugudan * 3 );
+console.log(gugudan , ' * 4 = ', gugudan * 4 );
+console.log(gugudan , ' * 5 = ', gugudan * 5 );
+console.log(gugudan , ' * 6 = ', gugudan * 6 );
+console.log(gugudan , ' * 7 = ', gugudan * 7 );
+console.log(gugudan , ' * 8 = ', gugudan * 8 );
+console.log(gugudan , ' * 9 = ', gugudan * 9 );
+console.log('-----------------');
+
+// for(let ii=1; ii <=19; ii++ ) {
+//     console.log(dan , ' * ' , ii , ' = ', dan * ii );
+// }
 
