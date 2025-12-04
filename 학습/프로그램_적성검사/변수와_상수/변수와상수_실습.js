@@ -7,7 +7,7 @@
 
 let root = 5;
 console.log("******구구단" ,root,"단 출력******");
-console.log("-------------------------------------");
+console.log("-------------------------------------")
 console.log(root, "* 1 = ", root * 1);
 console.log(root, "* 2 = ", root * 2);
 console.log(root, "* 3 = ", root * 3);
