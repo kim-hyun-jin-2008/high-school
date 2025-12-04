@@ -5,14 +5,15 @@
 // 주석은 한줄 주석이 있고 여러줄 주석이 있어. 한줄:// 여러줄은 /*    ... */
 
 
-// 줄바꿈은 newline -> \n
-console.log("\n");
-
-let userName = "홍길동";
-console.log("처음 변수 선언한 이름:" , userName);
-console.log("");  // 한줄 떨어 트리기
-// +로 하니까 한칸 떨어진게 없네
-console.log("처음 변수 선언한 이름:" + userName);
-
-console.log(true && true);
-
+let root = 5;
+console.log("******구구단" ,root,"단 출력******");
+console.log("-------------------------------------");
+console.log(root, "* 1 = ", root * 1);
+console.log(root, "* 2 = ", root * 2);
+console.log(root, "* 3 = ", root * 3);
+console.log(root, "* 4 = ", root * 4);
+console.log(root, "* 5 = ", root * 5);
+console.log(root, "* 6 = ", root * 6);
+console.log(root, "* 7 = ", root * 7);
+console.log(root, "* 8 = ", root * 8);
+console.log(root, "* 9 = ", root * 9);
