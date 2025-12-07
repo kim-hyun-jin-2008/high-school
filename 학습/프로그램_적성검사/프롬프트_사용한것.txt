@@ -1,15 +1,19 @@
 
-console.log("\n=== 예제 9: 주차 요금 계산 ===");
-let parkingHours = 3;
-let fee = 0;
-if (parkingHours <= 1) {
-    fee = 2000;
-} else if (parkingHours <= 3) {
-    fee = 5000;
+console.log("\n=== 예제 6: 할인율 계산 ===");
+let price = 50000;
+let discount = 0;
+if (price >= 100000) {
+    discount = 20;
+    console.log("20% 할인이 적용됩니다.");
+} else if (price >= 50000) {
+    discount = 10;
+    console.log("10% 할인이 적용됩니다.");
 } else {
-    fee = 10000;
+    discount = 0;
+    console.log("할인이 없습니다.");
 }
-console.log("주차 시간: " + parkingHours + "시간");
-console.log("주차 요금: " + fee + "원");
+let finalPrice = price - (price * discount / 100);
+console.log("최종 가격: " + finalPrice + "원");
+
 
 이걸 출력하기 전에 수도코드(글)로 출력하고 그 아래 이것을 출력하고 논리적인 사고에 대한 별도 설명을 해서 출력
