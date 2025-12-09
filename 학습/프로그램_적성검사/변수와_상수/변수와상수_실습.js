@@ -143,5 +143,23 @@ month에 7을 저장한다
 
 마지막으로 최종 가격을 출력한다.
 
+
+
+위를 개선한 수도 코드 -->
+
+물건 = 50원;
+DiscountRate = 0; // 초기화
+
+만약 가격이 1만원 이상이면
+	DiscountRate = 20%;
+
+만약 가격이 5천원 이상이면
+	DiscountRate = 10%;
+
+만약 DiscountRate > 0 보다 크면
+	최종가격 = ( 가격 * DiscountRate / 100);
+
+출력: "할인율 DiscountRate%가 적용 되어 ${최종가격}을 계산 하시면 됩니다.";
+
 */
 
