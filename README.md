@@ -6,6 +6,8 @@ git pull origin master; git add .; git commit -m '변경'; git push origin maste
 ```
 
 ---
+2026.04.05
+
 
 # 내 목표
 1. 매 시간 학습결과 마크다운 파일 작성해 올리기
